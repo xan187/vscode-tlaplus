@@ -654,7 +654,7 @@
     "dependencies": {
         "@microsoft/fast-components": "^2.30.6",
         "@microsoft/fast-react-wrapper": "^0.3.18",
-        "@vscode/codicons": "^0.0.33",
+        "@vscode/codicons": "^0.0.36",
         "@vscode/debugadapter": "^1.63.0",
         "@vscode/webview-ui-toolkit": "^1.2.2",
         "vscode-languageclient": "^9.0.0",
